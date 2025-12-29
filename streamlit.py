@@ -4,7 +4,7 @@ import streamlit as st
 client = genai.Client(api_key='AIzaSyA3_ZUhquNtk8mT2yuSKERJrX3gpWKVVhY')
 
 
-st.title("Streamlit First App")
+st.title("Medical Chatbot")
 st.write("This app demonstrates a conversational agent.")
 
 user_input = st.text_input("Ask anything")
