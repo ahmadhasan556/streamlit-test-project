@@ -1,1 +1,1 @@
-genai
+google-genai
